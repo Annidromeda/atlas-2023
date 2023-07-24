@@ -1,0 +1,46 @@
+{
+	"id": -1,
+	"name": "Chonny Jash",
+	"description": "Chonny Jash is an Australian musician/cover artist known for his covers of Miracle Musical, Tally Hall, Sycamore Smith and beyond, along with creating original albums.\nThis area was created by the fan server. \nThe heart, crown and trident are a direct nod to the Heart, Mind and Soul of CCCC.",
+	"links": {
+		"website": [
+			"https://www.youtube.com/@ChonnyJash"
+		],
+		"subreddit": [
+			"chonnyjash"
+		],
+		"discord": [
+			"PunYqmRs"
+		]
+	},
+	"path": {
+		"53-163": [
+			[
+				84,
+				33
+			],
+			[
+				115,
+				33
+			],
+			[
+				115,
+				66
+			],
+			[
+				84,
+				65
+			],
+			[
+				84,
+				33
+			]
+		]
+	},
+	"center": {
+		"53-163": [
+			100,
+			50
+		]
+	}
+}
